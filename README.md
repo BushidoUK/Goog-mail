@@ -9,7 +9,7 @@
 
 Usage:
 
-user@box:~# ./goog-mail.py example.com
+user@box:~# ./goog-mail.py example.com OR python goog-mail.py example.com
 
 ```
 ```
