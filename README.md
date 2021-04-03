@@ -7,9 +7,11 @@ Example (I will used gmi.edu.my)
 ./goog-mail.py [domain]
 
 Here are the result from the scan
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 + Google Web & Group Results:
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 user1@domain/.xx
 
