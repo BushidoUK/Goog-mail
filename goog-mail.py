@@ -5,6 +5,7 @@ import re
 import string
 import sys
 import urllib2
+from sys import stdout
 
 def StripTags(text):
     finished = 0
