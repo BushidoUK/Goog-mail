@@ -1,7 +1,11 @@
-# Goog-mail
+### Goog-mail
 
-Now run the script by typing
+#Now run the script by typing
+
 ./goog-mail.py (enter you domain here)
+
+```
+```
 
 Example (I will used gmi.edu.my)
 ./goog-mail.py [domain]
