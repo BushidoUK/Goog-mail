@@ -6,7 +6,10 @@ Now run the script by typing
 Example (I will used gmi.edu.my)
 ./goog-mail.py [domain]
 
-Here are the result from the scan
+```
+```
+
+Results from the scan
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
