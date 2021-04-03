@@ -1,6 +1,6 @@
 ### Goog-mail
 
-#Now run the script by typing
+# Now run the script by typing
 
 ./goog-mail.py (enter you domain here)
 
