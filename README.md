@@ -8,7 +8,8 @@
 ```
 
 Usage:
-./goog-mail.py [domain]
+
+user@box:~# ./goog-mail.py example.com
 
 ```
 ```
