@@ -2,7 +2,7 @@
 
 ### Now run the script by typing
 
-./goog-mail.py (enter you domain here)
+./goog-mail.py (enter a domain here)
 
 ```
 ```
