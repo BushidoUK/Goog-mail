@@ -16,3 +16,4 @@ user@box:~# ./goog-mail.py example.com OR python goog-mail.py example.com
 
 Results from scanning "uk.ibm.com":
 
+![Results](https://github.com/BushidoUK/Goog-mail/blob/main/Screenshot%202021-04-03%20131716.png)
