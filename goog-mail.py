@@ -6,6 +6,15 @@ import string
 import sys
 import urllib2
 
+    print "  ________                                  _____         .__.__                     "
+    print " /  _____/  ____   ____   ____             /     \ _____  |__|  |      ______ ___.__."
+    print "/   \  ___ /  _ \ /  _ \ / ___\   ______  /  \ /  \\__   \ |  |  |      \____ <   |  |"
+    print "\    \_\  (  <_> |  <_> ) /_/  > /_____/ /    Y    \/ __ \|  |  |__    |  |_> >___  |"
+    print " \______  /\____/ \____/\___  /          \____|__  (____  /__|____/ /\ |   __// ____|"
+    print "        \/             /_____/                   \/     \/          \/ |__|   \/     "
+    print " "
+    print "Emails associated with the domain will appear below:"
+
 def StripTags(text):
     finished = 0
     while not finished:
@@ -57,15 +66,7 @@ try:
             uniq_emails_web=d.keys()
         page_counter_web = page_counter_web +10
 except IOError:
-    print "Cannot connect to Google Web."+""
-
+    print "Cannot connect to Google Web."+"" 
+    
 for uniq_emails_web in d.keys():
-    print "  ________                                  _____         .__.__                     "
-    print " /  _____/  ____   ____   ____             /     \ _____  |__|  |      ______ ___.__."
-    print "/   \  ___ /  _ \ /  _ \ / ___\   ______  /  \ /  \\__   \ |  |  |      \____ <   |  |"
-    print "\    \_\  (  <_> |  <_> ) /_/  > /_____/ /    Y    \/ __ \|  |  |__    |  |_> >___  |"
-    print " \______  /\____/ \____/\___  /          \____|__  (____  /__|____/ /\ |   __// ____|"
-    print "        \/             /_____/                   \/     \/          \/ |__|   \/     "
-    print " "
-    print "Emails associated with the domain will appear below:"
     print uniq_emails_web+""
