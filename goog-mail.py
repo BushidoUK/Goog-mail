@@ -67,9 +67,8 @@ stdout.write(RED + '''
     print " \______  /\____/ \____/\___  /          \____|__  (____  /__|____/ /\ |   __// ____|"
     print "        \/             /_____/                   \/     \/          \/ |__|   \/     "
     print " "
-    print "Emails associated with the domain will appear below:")
-    
-print '''
+    print "Emails associated with the domain will appear below:"
+    ''')
 
 for uniq_emails_web in d.keys():
     print uniq_emails_web+""
