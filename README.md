@@ -1,6 +1,6 @@
-### Goog-mail
+# Goog-mail.py OSINT tool
 
-# Now run the script by typing
+### Now run the script by typing
 
 ./goog-mail.py (enter you domain here)
 
