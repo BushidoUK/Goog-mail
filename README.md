@@ -11,12 +11,12 @@ Here are the result from the scan
 + Google Web & Group Results:
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-user1@dmoain.xx
+user1@domain/.xx
 
-user2@dmoain.xx
+user2@domain/.xx
 
-user3@dmoain.xx
+user3@domain/.xx
 
-user4@dmoain.xx
+user4@domain/.xx
 
-user5@dmoain.xx
+user5@domain/.xx
