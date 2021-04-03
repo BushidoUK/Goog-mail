@@ -7,7 +7,7 @@
 ```
 ```
 
-Example (I will used gmi.edu.my)
+Usage:
 ./goog-mail.py [domain]
 
 ```
