@@ -60,16 +60,16 @@ try:
 except IOError:
     print "Cannot connect to Google Web."+"" 
 
-stdout.write(RED + '''    
-    print "  ________                                  _____         .__.__                     "
-    print " /  _____/  ____   ____   ____             /     \ _____  |__|  |      ______ ___.__."
-    print "/   \  ___ /  _ \ /  _ \ / ___\   ______  /  \ /  \\__   \ |  |  |      \____ <   |  |"
-    print "\    \_\  (  <_> |  <_> ) /_/  > /_____/ /    Y    \/ __ \|  |  |__    |  |_> >___  |"
-    print " \______  /\____/ \____/\___  /          \____|__  (____  /__|____/ /\ |   __// ____|"
-    print "        \/             /_____/                   \/     \/          \/ |__|   \/     "
-    print " "
-    print "Emails associated with the domain will appear below:"
-    ''')
+stdout.write('''    
+  ________                                  _____         .__.__                     
+ /  _____/  ____   ____   ____             /     \ _____  |__|  |      ______ ___.__."
+/   \  ___ /  _ \ /  _ \ / ___\   ______  /  \ /  \\__   \ |  |  |      \____ <   |  |"
+\    \_\  (  <_> |  <_> ) /_/  > /_____/ /    Y    \/ __ \|  |  |__    |  |_> >___  |"
+ \______  /\____/ \____/\___  /          \____|__  (____  /__|____/ /\ |   __// ____|"
+        \/             /_____/                   \/     \/          \/ |__|   \/     "
+
+Emails associated with the domain will appear below: 
+''')
 
 for uniq_emails_web in d.keys():
     print uniq_emails_web+""
