@@ -14,5 +14,5 @@ user@box:~# ./goog-mail.py example.com OR python goog-mail.py example.com
 ```
 ```
 
-Results from the scan
+Results from the scan:
 
